@@ -4,7 +4,7 @@ const String kIdentifiant = 'Doom@gmail.com';
 const String kMotDePasse = 'Destinho12';
 
 class Profil {
-  static const nom = 'IMANI KAFULI Alain';
+  static const nom = 'Alain Kafuli';
   static const titre =
       'Étudiant en informatique appliqué à la gestion des entreprises '
       '– Développeur mobile Flutter'
@@ -100,7 +100,7 @@ const famille = [
 
 class Contacts {
   static const telephone = '+243 978107661';
-  static const email = 'Destinholusheke@gmail.com';
+  static const email = 'Alainkafulie@gmail.com';
   static const adresse = 'Avenue Mutongo, Commune de karisimbi, Goma, RDC';
   static const linkedin = 'https://www.linkedin.com/in/Destinholusheke';
   static const github = 'https://github.com/destinho';

@@ -1,6 +1,6 @@
-# cv_flutter_doom
+# cv_flutter_Alain
 
-Application mobile Flutter présentant le **CV**, la **famille** et les **contacts** de NSHOKANO LUSHEKE DOOM (données fictives).
+Application mobile Flutter présentant le **CV**, la **famille** et les **contacts** de IMANI KAFULI Alain(données fictives).
 L'accès se fait par une page de connexion.
 
 **Identifiants de démonstration :** `doom` / `1234`

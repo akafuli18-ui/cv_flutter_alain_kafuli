@@ -11,7 +11,7 @@ class CvApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'CV Flutter - Doom',
+      title: 'CV Flutter - Alain Kafuli',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: true,
